@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @M2ABA2
-- 👀 I’m interested in backend 
-- 🌱 I’m currently learning Red Hat System Administrator  
-- 💞️ I’m looking to collaborate on backend projects (Java and groovy related)
+- 👀 I’m interested in Backend Development
+- 🌱 I’m currently learning Red Hat System Administration  
+- 💞️ I’m looking to collaborate on backend projects (Microservices, System Admin etc)
 - 📫 How to reach me mmabathomatsebe@gmail.com
 
 <!---
