@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @M2ABA2
-- 👀 I’m interested in Backend Development
+- 👀 I’m interested in Backend API Development in Golang 
 - 🌱 I’m currently learning Red Hat System Administration  
 - 💞️ I’m looking to collaborate on backend projects (Microservices, System Admin etc)
 - 📫 How to reach me makoelematsebe@gmail.com
