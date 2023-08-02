@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Makoele
-- 👀 I’m interested in Backend API Development in Golang 
-- 🌱 I’m currently learning Red Hat System Administration  
-- 💞️ I’m looking to collaborate on backend projects (Microservices, System Admin etc)
+- 👀 I’m interested in Java Development, Backend API Development in Golang 
+- 🌱 I’m currently learning Red Hat System Administration and Python
+- 💞️ I’m looking to collaborate on backend projects 
 - 📫 How to reach me makoelematsebe@gmail.com
 
 <!---
