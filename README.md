@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Makoele
 - 👀 I’m interested in Java Development, Backend API Development in Golang 
-- 🌱 I’m currently learning Red Hat System Administration and Python
+- 🌱 I’m currently learning Springboot and Docker
 - 💞️ I’m looking to collaborate on backend projects 
 - 📫 How to reach me makoelematsebe@gmail.com
 
